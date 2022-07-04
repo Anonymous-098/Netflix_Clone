@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "BebasNeue";
+  src: url("BebasNeue.otf");
+}
+
+.title{
+    /* font-family: 'BebasNeue'; */
+    color: 	#E50914;
+}
